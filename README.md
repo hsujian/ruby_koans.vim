@@ -1,1 +1,1 @@
-This is quickfix for ruby_koans
+This is vim quickfix setting for ruby_koans
